@@ -63,6 +63,36 @@ Prerequisites
 
 
 
+## Step 1: Set Up Git Repo
+
+### Implementation
+
+**Fork the starter repo**
+
+
+
+Open following repo
+
+```
+https://github.com/aws-samples/aws-elastic-beanstalk-express-js-sample
+```
+
+
+Choose the white Fork button on the top right corner of the screen. Next, you will see a small window asking you where you would like to fork the repo.
+
+
+
+
+
+Verify it is showing your account and choose Create a fork. After a few seconds, your browser will display a copy of the repo in your account under Repositories.
+
+
+
+
+
+
+
+
 
 
 
